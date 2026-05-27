@@ -1,0 +1,3 @@
+The EmotionDetection package was imported successfully.
+Command used:
+python3 -c "from EmotionDetection import emotion_detector; print(emotion_detector('I am happy'))"

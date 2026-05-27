@@ -1,0 +1,1 @@
+For the given statement, the system response is 'anger', 'disgust', 'fear', 'joy' and 'sadness'. The dominant emotion is joy.
